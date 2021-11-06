@@ -1,5 +1,4 @@
-# anisharani28.github.io
-Notes App
+**Notes App**
 
 A simple notes app where the user can take notes and save it. User can also delete the Note
 
