@@ -15,5 +15,6 @@ html {
 }
 
 .btn-outline-success{
-    background-color: #ffffff;
+    color: #ffffff;
+    border-color: #ffffff;
 }
